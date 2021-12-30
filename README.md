@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ![Easy Frontend banner](https://github.com/ShenggKai/ShenggKai/blob/master/1033740.jpg)
+<img src="https://github.com/ShenggKai/ShenggKai/blob/master/1033740.jpg" 
+     width="400" 
+     height="500" />
+
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
