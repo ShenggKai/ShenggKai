@@ -1,9 +1,7 @@
 ### Hi there 👋
-<img src="https://github.com/ShenggKai/ShenggKai/blob/master/1033740.jpg" />
-img {
-  width: 100%;
-  height: auto;
-}
+<img src="https://github.com/ShenggKai/ShenggKai/blob/master/1033740.jpg" 
+     width: 100%;
+  height: auto;/>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
