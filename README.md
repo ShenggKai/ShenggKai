@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Easy Frontend banner](https://github.com/ShenggKai/ShenggKai/blob/master/1033740.jpg)
+
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ShenggKai}/count.svg" alt="Sheng Kai :: Visitor's Count" /></p>
