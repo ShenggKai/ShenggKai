@@ -2,4 +2,8 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ShenggKai}/count.svg" alt="ShengKai :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ShenggKai}/count.svg" alt="Sheng Kai :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenggKai&langs_count=10&theme=tokyonight&layout=compact" alt="Sheng Kai :: Top Langs" /></p>
