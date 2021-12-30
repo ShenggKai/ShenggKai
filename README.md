@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/1033740.jpg" width="800"/></p>
+<p align="center"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/1033740.jpg" width="600"/></p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
