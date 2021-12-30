@@ -1,5 +1,5 @@
-### Hi there 👋
 <h2> Hi, I'm Sheng Kai! <img src="https://media.giphy.com/media/7JJT5EWjhqUnK/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p align="center"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/1033740.jpg"></p>
 
