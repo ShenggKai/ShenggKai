@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sheng Kai! <img src="https://github.com/ShenggKai/ShenggKai/blob/master/ezgif.com-gif-maker%20(2).gif" width="50"></h2>
 
-<p align="center"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/Gearvn_th%C3%A1m%20hi%E1%BB%83m_%20(2).jpg"></p>
+<p align="center"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/1023812.jpg"></p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
