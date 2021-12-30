@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ShenggKai)
+![Visitor Count](https://profile-counter.glitch.me/{ShenggKai}/count.svg)
