@@ -3,6 +3,7 @@
 <p align="center"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/3107.jpg"></p>
 
 <h2 align="left">About me <img src="https://github.com/ShenggKai/ShenggKai/blob/master/nyan_cat.gif" width="75"></h2>
+ I'm a student in Computer Science major
 
 - 🌱 **I’m currently learning**: `Computer Vision`, `Deeplearning`, `HTML`
 
