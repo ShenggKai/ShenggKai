@@ -1,8 +1,8 @@
-<h1> <img src="https://media.giphy.com/media/JUSFwsRcQPmsJfjEsC/giphy.gif" width="50">, I'm Sheng Kai! <img src="https://github.com/ShenggKai/ShenggKai/blob/master/ezgif.com-gif-maker%20(2).gif" width="50"></h1> 
+<h1> <img src="https://media.giphy.com/media/JUSFwsRcQPmsJfjEsC/giphy.gif" width="70">, I'm Sheng Kai! <img src="https://github.com/ShenggKai/ShenggKai/blob/master/ezgif.com-gif-maker%20(2).gif" width="60"></h1> 
 
 <p align="center"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/3107.jpg"></p>
 
-<h2 align="left">About me <img src="https://github.com/ShenggKai/ShenggKai/blob/master/nyan_cat.gif" width="70"></h2>
+<h2 align="left">About me <img src="https://github.com/ShenggKai/ShenggKai/blob/master/nyan_cat.gif" width="75"></h2>
 
 - 🌱 **I’m currently learning**: `Computer Vision`, `Deeplearning`, `HTML`
 
