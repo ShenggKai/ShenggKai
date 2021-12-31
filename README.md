@@ -1,4 +1,4 @@
-<h1> <img src="https://media.giphy.com/media/JUSFwsRcQPmsJfjEsC/giphy.gif" width="70">, I'm Sheng Kai! <img src="https://github.com/ShenggKai/ShenggKai/blob/master/ezgif.com-gif-maker%20(2).gif" width="60"></h1> 
+<h1> <img src="https://github.com/ShenggKai/ShenggKai/blob/master/catsayhi.gif" width="70">, I'm Sheng Kai! <img src="https://github.com/ShenggKai/ShenggKai/blob/master/ezgif.com-gif-maker%20(2).gif" width="60"></h1> 
 
 <p align="center"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/3107.jpg"></p>
 
